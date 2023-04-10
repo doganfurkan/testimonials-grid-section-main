@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [github](https://)
-- Live Site URL: [Live](https://)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-testimonials-with-dark-theme-grid-and-flexbox-WKmCBVpG0r)
+- Live Site URL: [Live](https://doganfurkan.github.io/testimonials-grid-section-main/)
 
 ## My process
 
