@@ -50,4 +50,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@doganfurkan](https://www.frontendmentor.io/profile/doganfurkan)
-- Twitter - [@doganfurkan](https://www.twitter.com/doganfurkan)
+- github - [@doganfurkan](https://www.github.com/doganfurkan)
