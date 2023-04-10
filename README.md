@@ -24,9 +24,9 @@ Users should be able to:
 ### Screenshot
 
 ![ss-dark](./images/ss-dark.png)
-![ss-dark-mpbile](./images/ss-dark-mobile.png)
-![ss-dark](./images/ss-light-mobile.png)
-![ss-dark](./images/ss-light.png)
+![ss-dark-mobile](./images/ss-dark-mobile.jpeg)
+![ss-light-mobile](./images/ss-light-mobile.jpeg)
+![ss-light](./images/ss-light.png)
 
 ### Links
 
