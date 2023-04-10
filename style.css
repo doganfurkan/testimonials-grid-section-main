@@ -111,8 +111,30 @@ main section {
 }
 
 #section1 {
-  background: var(--section1);
+  background-color: var(--section1);
+  position: relative;
 }
+
+#section1 *{
+    z-index: 1;
+}
+
+#section1 .bgImg{
+    position: absolute;
+    z-index: 0;
+    right:10%;
+    top:0;
+    height:40%;
+}
+
+.bgImg img{
+ height: 100%;
+}
+
+.dark .bgImg img{
+    filter: brightness(0) saturate(100%) invert(31%) sepia(7%) saturate(2869%) hue-rotate(276deg) brightness(90%) contrast(84%);;
+}
+
 #section2 {
   background: var(--section2);
 }
